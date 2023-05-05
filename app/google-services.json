@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252127168387",
+    "project_id": "fir-firestore-practise",
+    "storage_bucket": "fir-firestore-practise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252127168387:android:35b5a8f85e99985e8658b6",
+        "android_client_info": {
+          "package_name": "uz.gita.dima.firebasefirestorepractise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252127168387-2t6librhkkt68jiju3q7fkurnotb3nu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqiqX-liQbh_vTeupc-kh9CcZ78a_MQw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252127168387-2t6librhkkt68jiju3q7fkurnotb3nu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
